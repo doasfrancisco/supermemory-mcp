@@ -1,7 +1,8 @@
 # Supermemory MCP - Universal Memory across LLMs
 
 > [!WARNING] 
-> MCP v1 is being deprecated. Please get the latest version from [app.supermemory.ai](https://app.supermemory.ai)
+> MCP v1 is being deprecated. Please get the latest version from [app.supermemory.ai](https://app.supermemory.ai).
+> While this repo is maintained and still active, the code for it will be maintained in this moonorepo here https://github.com/supermemoryai/supermemory/tree/main/apps/mcp
 
 [![Universal Memory MCP - Your memories, in every LLM you use. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=954861&theme=neutral&period=daily&t=1749339045428)](https://www.producthunt.com/products/supermemory?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-universal-memory-mcp)
 
