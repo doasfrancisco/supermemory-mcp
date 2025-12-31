@@ -1,4 +1,5 @@
 {
-    "name": "TypeScript MCP Server",
-    "runtime": "typescript.node"
+    "name": "Supermemory MCP Server",
+    "runtime": "typescript.node",
+    "entry": "index.ts"
 }
