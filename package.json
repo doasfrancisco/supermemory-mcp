@@ -12,6 +12,8 @@
 		"typecheck": "wrangler types && react-router typegen && tsc -b"
 	},
 	"dependencies": {
+		"@metorial/mcp-server-sdk": "latest",
+		"@modelcontextprotocol/sdk": "latest",
 		"@hono-rate-limiter/cloudflare": "^0.2.2",
 		"@standard-community/standard-json": "^0.1.2",
 		"@supermemory/sdk": "^0.1.0-alpha.8",
@@ -42,6 +44,7 @@
 		"@types/react-dom": "^19.1.2",
 		"tailwindcss": "^4.1.4",
 		"typescript": "^5.8.3",
+		"ts-node": "^10.9.0",
 		"vite": "^6.2.6",
 		"vite-tsconfig-paths": "^5.1.4",
 		"wrangler": "^4.11.1"
